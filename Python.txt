@@ -1,0 +1,50 @@
++)print("        ", variable/function )
++)commend : 1 line #.
+n line : '''.....'''
++) initialization : 
+string : string_var = 'Codelearn.io'
+boolen : boolean_var = True
+...advance..... : list, set, dict, tuple, complex
+-> type(variable);
+.............
+cộng chuỗi : ("A" + string_var)
+...
+ép kiểu :
+age = 19
+print("Age: " + str(age))
+....
+print("a + b = " + str(a+b)) or print("a + b = ",a+b)
+............
+Hàm input để nhập từ bàn phím:
+name = input() -> values from the keyboard are always "str" type even if you enter a number
+age = int(input()) --> chú y kết quả của phép tính toán mà xác định kiểu
+............
+Toán hạng : // (Floor Division – Quotient of the two operands (Without fractional part)) : không lấy phần sau dấu "," 
+	    ** : a**b = a^b
+......................
+//=, **=, &=, |=, ^=, >>= , <<=
+..........(toán tử membership)
+in
+not in  --> return ( true or false )
+eg : x in 'axtz' -> true
+.......Toán tử định danh (identity)
+is
+is not --> return ( true or false )
+->Dùng để xác định 2 biến có trỏ tới 1 đối tượng hay không. ( dùng thay cho toán tử bằng )
+eg. a is b -> 
+.......logical operators 
+keyword : and, or, not
+eg. a not b
+............
+if condition :
+   ....
+else :
+   ...
+............
+while condition:
+      .....
+.............the for loop is often used with the range() 
+for i in range(1,5): -> 1->4
+...ham range()
+for c in name:
+    print(c)
