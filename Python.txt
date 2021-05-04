@@ -48,3 +48,6 @@ for i in range(1,5): -> 1->4
 ...ham range()
 for c in name:
     print(c)
+
+
+Print('truong van thinh')
