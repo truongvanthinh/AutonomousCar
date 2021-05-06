@@ -4,5 +4,6 @@ https://minhng.info/tutorials/local-binary-patterns-lbp-opencv.html
 http://dulieu.tailieuhoctap.vn/books/khoa-hoc-ky-thuat/vien-thong/file_goc_772751.pdf
 https://medium.datadriveninvestor.com/haar-cascade-classifiers-237c9193746b
 https://quantrimang.com/gps-la-gi-172685
+https://espace.edu.vn/luan-van-tham-khao/tong-hop-do-an-va-luan-van-dien-tu-thuong-xuyen-cap-nhat/?fbclid=IwAR0rpEGl52xK361LfdfuQrFosE1F84g5yOAGyFCR_6VZm_uaLJlrmGaIl5Q#4_Do_an,_luan_van_ve_IOT,_dieu_khien_tu_xa,_dieu_khien_qua_mang,_qua_may_tinh
 
 Module Định Vị GPS NEO-6M kích thước nhỏ gọn, thích hợp cho xe hãng, thiết bị  cầm tay như PDA, giám sát phương tiện, video máy ứng dụng và hệ thống định vị di động khác, các ứng dụng của GPS là nhất lựa chọn tốt của sự lựa chọn.
