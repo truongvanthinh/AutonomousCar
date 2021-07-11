@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T09:25:11.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="wPhSl9qjglP-0ttGf3u2" version="14.8.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-11T10:00:11.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="74w-4Nxq6X4Qu_6iRRSp" version="14.8.1" type="github" pages="4">
   <diagram id="9qe1KoFlNiDRj9Q3gKfL" name="Page-1">
     <mxGraphModel dx="1006" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,7 +188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DRSufnUlbqV0O_ohqXF0" name="Page-2">
-    <mxGraphModel dx="1184" dy="595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1006" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-PCoeMqfJSXNTerW2Fz0-0" />
         <mxCell id="-PCoeMqfJSXNTerW2Fz0-1" parent="-PCoeMqfJSXNTerW2Fz0-0" />
@@ -384,7 +384,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-QYV7yvo2bI53xhuSYtu" name="Page-3">
-    <mxGraphModel dx="694" dy="349" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1006" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hfYp6owV0_h_rEtpRqKY-0" />
         <mxCell id="hfYp6owV0_h_rEtpRqKY-1" parent="hfYp6owV0_h_rEtpRqKY-0" />
@@ -664,7 +664,7 @@
             <mxPoint x="435" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RM0BeaeU_GpPraeSkMi--4" value="&lt;b&gt;Initialize&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="MQBRN-oJpbykWhOla4uo-1" vertex="1">
+        <mxCell id="RM0BeaeU_GpPraeSkMi--4" value="&lt;b&gt;Khởi tạo tác.&lt;br&gt;Gía trị mode = 0.&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="MQBRN-oJpbykWhOla4uo-1" vertex="1">
           <mxGeometry x="375" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RM0BeaeU_GpPraeSkMi--5" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="MQBRN-oJpbykWhOla4uo-1" source="RM0BeaeU_GpPraeSkMi--4" edge="1">
@@ -673,10 +673,10 @@
             <mxPoint x="435" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RM0BeaeU_GpPraeSkMi--7" value="&lt;b&gt;Get(mode)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="MQBRN-oJpbykWhOla4uo-1" vertex="1">
+        <mxCell id="RM0BeaeU_GpPraeSkMi--7" value="Nhận chế độ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="MQBRN-oJpbykWhOla4uo-1" vertex="1">
           <mxGeometry x="375" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RM0BeaeU_GpPraeSkMi--9" value="Update(mode)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="MQBRN-oJpbykWhOla4uo-1" vertex="1">
+        <mxCell id="RM0BeaeU_GpPraeSkMi--9" value="Cập nhập chế độ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="MQBRN-oJpbykWhOla4uo-1" vertex="1">
           <mxGeometry x="195" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RM0BeaeU_GpPraeSkMi--10" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="MQBRN-oJpbykWhOla4uo-1" source="RM0BeaeU_GpPraeSkMi--9" target="RM0BeaeU_GpPraeSkMi--7" edge="1">
@@ -846,7 +846,7 @@
         <mxCell id="Lq4XSNcrgev9Ye3clhIf-3" value="&lt;b&gt;mode = 0&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="MQBRN-oJpbykWhOla4uo-1" vertex="1">
           <mxGeometry x="502" y="690" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lq4XSNcrgev9Ye3clhIf-5" value="&lt;b&gt;Return from ISR&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="MQBRN-oJpbykWhOla4uo-1" vertex="1">
+        <mxCell id="Lq4XSNcrgev9Ye3clhIf-5" value="&lt;b&gt;Trở về từ ISR&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="MQBRN-oJpbykWhOla4uo-1" vertex="1">
           <mxGeometry x="360" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lq4XSNcrgev9Ye3clhIf-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="MQBRN-oJpbykWhOla4uo-1" source="Lq4XSNcrgev9Ye3clhIf-0" target="Lq4XSNcrgev9Ye3clhIf-5" edge="1">
