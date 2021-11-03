@@ -1,0 +1,20 @@
+1. What is bootloader ? role of bootloader ?
+-A bootloader, also known as a boot program or bootstrap loader, is a special operating system software that places the operating system (OS) of a computer into memory, that loads into the working memory of a computer after start-up. For this purpose, immediately after a device starts, a bootloader is generally launched by a bootable medium like a hard drive, a CD/DVD or a USB stick. The boot medium receives information from the computer’s firmware (e.g. BIOS) about where the bootloader is. The whole process is also described as “booting”.
+-Bootloaders serve as a mediator between hardware and the operating system. As soon as a bootloader has been initialized by the respective firmware, it has system responsibility to get the boot process going. The first task is to load the main memory, which is essential for the processor to work.
+Bootloader is a piece of code/program that runs before an operating system starts to run. It loads an operating system when a computer is turned on. It tells the hardware where to look and how to get running when you start things up.
+Bootloader basically package the instructions to boot operating system kernel and most of them also have their own debugging or modification environment. As the bootloader kicks off before any piece of software on your device, it makes it extremely processor specific and every motherboard has its own bootloader. This is the reason all android devices have different custom ROM’s due to their varying hardware specifications. On the other hand, the Apple devices running IOS somewhat share the same hardware specs and therefore you don’t see much variance in their bootloaders.
+The bootloader is the program that is responsible for checking and loading the operating system. Hence manufacturers roll out their devices with locked bootloader so that some users who don’t know what they’re doing don’t damage their devices with bad software. Hence, we need to unlock the bootloader first in Android devices before installing any custom ROM.
+Role:
+- A boot loader is a critical piece of sw running on any system.Whever a computing system is initially powerd on, the first piece of code to be loaded and run is the boot loader. it provides an interface for the user to load an operating system and application.
+
+2. Overview about process of embedded linux.
+http://www.embeddedlinux.org.cn/EmbLinux/ch04lev1sec2.htm (chua xem)
+3. What is toolchain? cross-compilation toolchain vs native toolchain?
+
+
+Ref:
+https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/
+https://searchdatacenter.techtarget.com/definition/boot-loader-boot-manager
+https://www.microcontrollertips.com/what-is-an-embedded-bootloader-faq/
+https://www.msystechnologies.com/blog/how-to-setup-a-bootloader-for-an-embedded-linux-machine/ (chua xem)
+https://www.microcontrollertips.com/what-is-an-embedded-bootloader-faq/ (chua xem)
